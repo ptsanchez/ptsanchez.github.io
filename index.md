@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+As a current Computer Science & Mathematics undergraduate student at the University of California, San Diego, I am excited to share with you my knowledge and experiences thus far.
 
-Maybe say a some things about yourself.
+I also plan on sharing my other interests beyond the technincal stuff.
 
-Or maybe what you plan to blog about.
+I hope you find something interesting and enjoy your time!
